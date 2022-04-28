@@ -1,5 +1,5 @@
 ### Hi there, I'm Doniyor! 👋
-- 🔭 Professional Skills: DevOps, Cloud Native, Docker, Kubernetes,IaC, GitOps, C#, DOTNET, Power Platforms.
+- 🔭 Professional Skills: DevOps, Cloud Native, Docker, Kubernetes, IaC, GitOps, C#, DOTNET, Power Platforms.
 - 🌱 Currently working as a DevOps.
 - 👯 Shoot me an email for collabs: niazovd@gmail.com
 - 📫 How to reach me: [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/)
