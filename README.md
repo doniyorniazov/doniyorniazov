@@ -1,7 +1,7 @@
 ### Hi there, I'm Doniyor! 👋
 - 🌱 DevOps Engineer.
 - 👯 Shoot me an email for collabs: niazovd@gmail.com
-- 📫 How to reach me: [Youtube](https://www.youtube.com/doniyorniazov/), [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/), 
+- 📫 How to reach me: [Youtube](https://www.youtube.com/doniyorniazov/), [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/)
 - ⚡ Fun fact: I'm a professional Photographer and Videographer.   
 - <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"> Microsoft Certified Solutions Associate</p>
 
