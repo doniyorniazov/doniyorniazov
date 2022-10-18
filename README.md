@@ -25,6 +25,7 @@
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=microsoft-azure-devops&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=microsoft-azure-pipelines]&logoColor=white)#2560E0
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 [![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com/graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
