@@ -19,12 +19,12 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) 
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![Power Platform](https://img.shields.io/badge/Power%20Platform-512BD4?style=for-the-badge&logo=power%20platform&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-512BD4?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white) 
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white) 
 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=microsoft%20azure%20devops&logoColor=white) 
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=for-the-badge&logo=microsoft%20azure%20pipelines]&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 [![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com/graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
