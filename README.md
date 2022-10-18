@@ -4,17 +4,18 @@
 - 👯 Shoot me an email for collabs: niazovd@gmail.com
 - 📫 How to reach me: [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/)
 - ⚡ Fun fact: I'm a professional Photographer and Videographer.   
+
 <img src="https://github-readme-stats.vercel.app/api?username=doniyorniazov&&show_icons=true&title_color=33ccff&icon_color=33ccff&text_color=33ccff&bg_color=151515">
 </p>
 
+- <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"/> Microsoft Certified Developer</p>
 
 # Technologies
-![Azure](https://img.shields.io/badge/Microsoft_Azure-#0078D4?style=for-the-badge&logo=Microsoft_Azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-#0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 
-- <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"/> Microsoft Certified Developer</p>
 
 
 [![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com/graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
