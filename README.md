@@ -7,7 +7,7 @@
 
 - <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"/> Microsoft Certified Developer</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=doniyorniazov&&show_icons=true&title_color=ffffff&icon_color=33ccff&text_color=33ccff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=doniyorniazov&&show_icons=true&title_color=33ccff&icon_color=33ccff&text_color=33ccff&bg_color=151515">
 </p>
 
 [![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com/graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
