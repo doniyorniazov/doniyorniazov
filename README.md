@@ -10,5 +10,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=doniyorniazov&&show_icons=true&title_color=ffffff&icon_color=fcd303&text_color=daf7dc&bg_color=151515">
 </p>
 
-[![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com//graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Doniyor's github activity graph](https://doniyorniazov.herokuapp.com/graph?username=doniyorniazov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
