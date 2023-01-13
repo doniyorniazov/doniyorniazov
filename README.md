@@ -3,10 +3,9 @@
 - 👯 Shoot me an email for collabs: niazovd@gmail.com
 - 📫 How to reach me: [Youtube](https://www.youtube.com/doniyorniazov/), [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/)
 - ⚡ Fun fact: I'm a professional Photographer and Videographer.
-- <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"> Microsoft Certified Solutions Associate</p>
+- <p><img src="https://images.credly.com/images/95c1c6c4-e3cc-4ccb-b7ba-553ec668459e/MCSA-Windows-10-2019.png" alt="mcsa" width="20" height="20"> Microsoft Certified Solutions Associate: Universal Windows Platform</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=doniyorniazov&&show_icons=true&title_color=33ccff&icon_color=33ccff&text_color=33ccff&bg_color=151515">
-</p>
+![Doniyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniyorniazov&show_icons=true&theme=slateorange)
 
 # Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
@@ -35,5 +34,5 @@
 
 [![Doniyor’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=doniyorniazov&theme=react-dark)](https://github.com/doniyorniazov/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorniazov&hide_border=true&theme=radical&hide=javascript,html,css&langs_count=10&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorniazov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
