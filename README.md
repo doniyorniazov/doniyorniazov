@@ -33,7 +33,7 @@
 ![Instagram](https://img.shields.io/badge/doniyorniazov-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 ![Twitter](https://img.shields.io/badge/doniyorniazov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
 
-[![Doniyor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=doniyorniazov)](https://github.com/doniyorniazov/github-readme-activity-graph)
+[![Doniyor’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=doniyorniazov&theme=react-dark)](https://github.com/doniyorniazov/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyorniazov&hide_border=true&theme=radical&hide=javascript,html,css&langs_count=10&layout=compact)
 
