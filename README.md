@@ -1,5 +1,5 @@
 ### Hi there, I'm Doniyor! 👋
-- 🌱 DevOps Engineer.
+- 🌱 DevOps Engineer | Cloud Architect.
 - 👯 Shoot me an email for collabs: niazovd@gmail.com
 - 📫 How to reach me: [Youtube](https://www.youtube.com/doniyorniazov/), [Instagram](https://www.instagram.com/doniyorniazov/), [Twitter](https://twitter.com/niazov24), [LinkedIn](https://www.linkedin.com/in/doniyor-niyozov-380a59135/)
 - ⚡ Fun fact: I'm a professional Photographer and Videographer.
